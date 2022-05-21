@@ -4,7 +4,7 @@
 
 # flutter_grid_compare
 
-A new Flutter project to answer this stackoverflow question
+A new Flutter project to answer [this](https://stackoverflow.com/questions/72308391/how-to-compare-items-in-the-gridview-in-flutter/72326175#72326175) stackoverflow question
 
 The data I am using here is from the [harry potter api](http://hp-api.herokuapp.com/api/characters). My grid will have some pictures and when 2 pictures are selected it will let the user compare them and show some data  
 
