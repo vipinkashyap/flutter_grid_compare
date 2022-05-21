@@ -15,7 +15,6 @@ The data I am using here is from the [harry potter api](http://hp-api.herokuapp.
 - When the user wants to compare the tiles we show another screen/bottom scroll sheet which then shows a datatable for comparison
 
 
+## Final product demo gif
 
-
- - Select two
- - Option to scroll down 
+![Demo gif](https://i.imgur.com/cvPZ2nY.gif)
